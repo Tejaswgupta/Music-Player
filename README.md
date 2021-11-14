@@ -1,6 +1,5 @@
-## Flute Music Player ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https://twitter.com/Abhishe00178650) ![GitHub stars](https://img.shields.io/github/stars/iamabhishek229313/Flute-Music-Player?style=social)![GitHub forks](https://img.shields.io/github/forks/iamabhishek229313/Flute-Music-Player?style=social) 
 
-# 🎶 Flute_Music_Player
+# 🎶 Flutter_Music_Player
 
 Building this app with intention of learning flutter better .
 
